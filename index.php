@@ -1,1 +1,1 @@
-<?php echo "JE HAIS OUTLOOK !!!"; ?>
+<?php echo "JE HAIS OUTLOOK !!!" . MYSQLCONNSTR_localdb; ?>
