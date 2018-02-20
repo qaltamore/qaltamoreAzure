@@ -36,7 +36,7 @@ define('DB_USER', $parametersList[2]);
 define('DB_PASSWORD', $parametersList[3]);
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', [$parametersList[1]]);
+define('DB_HOST', $parametersList[1]);
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8');
