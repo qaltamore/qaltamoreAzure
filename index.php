@@ -1,1 +1,4 @@
-<?php echo "JE HAIS OUTLOOK !!!"; vard_dump(MYSQLCONNSTR_localdb); ?>
+<?php 
+	echo "JE HAIS OUTLOOK !!!";
+	echo MYSQLCONNSTR_localdb; 
+?>
